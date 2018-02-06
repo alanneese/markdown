@@ -1,1 +1,1 @@
-# Welcome to the new subdirectory of Markdown!
+# Welcome to the new subdirectory of Markdown 2!
